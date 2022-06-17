@@ -107,3 +107,10 @@ Very dark cyan: hsl(179, 100%, 13%) */
     width: 30vh;
     background: hsl(179, 100%, 13%);
 }
+
+a {
+    color: red;
+    font-size: 3rem;
+    text-decoration: none;
+    text-align: center;
+}
